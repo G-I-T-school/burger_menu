@@ -4,7 +4,7 @@
   list-style-type: none;
   width: 120px;
 }
-@media (min-width: 321px)
+@media (min-width: 320px)
 {
 #menu__toggle {
   opacity: 0;
